@@ -16,7 +16,7 @@ The dataset used in this project is the Pima Indians Diabetes Database, which co
 
 The dataset is included in the project repository as a CSV file named diabetes.csv.
 
-**Usag**
+**Usage**
 
 To run the project, open the diabetes_prediction.ipynb Jupyter notebook and follow the step-by-step instructions.
 
